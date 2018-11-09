@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pesquisa">Informe o código a ser pesquisado</string>
+    <string name="botao_Pesquisar">Pesquisar</string>
+    <string name="nome">nome</string>
+    <string name="cabelo">cor do cabelo</string>
+    <string name="pele">cor da pele</string>
+    <string name="aniversario">ano de nascimento</string>
+    <string name="genero">genêro</string>
+</resources>
